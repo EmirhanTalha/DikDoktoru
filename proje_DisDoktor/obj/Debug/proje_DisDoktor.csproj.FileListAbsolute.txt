@@ -1,0 +1,201 @@
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\proje_DisDoktor.exe.config
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.csprojResolveAssemblyReference.cache
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.frmAnaForm.resources
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Properties.Resources.resources
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Tanimlamalar.frmDoktorDetay.resources
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Tanimlamalar.frmDoktorListe.resources
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Tanimlamalar.frmHastaDetay.resources
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Tanimlamalar.frmHastaListe.resources
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.csproj.GenerateResource.Cache
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.exe.licenses
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\proje_DisDoktor.exe
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\proje_DisDoktor.pdb
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Data.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Utils.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraBars.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Office.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Data.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Utils.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraBars.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Office.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.exe
+c:\users\teknik\documents\visual studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.pdb
+C:\Users\Teknik\Documents\Visual Studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Islem.frmIslemDetay.resources
+C:\Users\Teknik\Documents\Visual Studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Islem.frmIslemListe.resources
+C:\Users\Teknik\Documents\Visual Studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Uygulama.frmUygulamaDetay.resources
+C:\Users\Teknik\Documents\Visual Studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Uygulama.frmUygulamaListesi.resources
+C:\Users\Teknik\Documents\Visual Studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Rapor.frmRapor2.resources
+C:\Users\Teknik\Documents\Visual Studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Rapor.frmRapor3.resources
+C:\Users\Teknik\Documents\Visual Studio 2015\Projects\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Rapor.frmRapor1.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\proje_DisDoktor.exe.config
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.exe
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.pdb
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\proje_DisDoktor.exe
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\proje_DisDoktor.pdb
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.csprojResolveAssemblyReference.cache
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.frmAnaForm.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Islem.frmIslemDetay.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Islem.frmIslemListe.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Properties.Resources.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Rapor.frmRapor1.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Rapor.frmRapor2.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Rapor.frmRapor3.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Tanimlamalar.frmDoktorDetay.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Tanimlamalar.frmDoktorListe.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Tanimlamalar.frmHastaDetay.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Tanimlamalar.frmHastaListe.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Uygulama.frmUygulamaDetay.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.Uygulama.frmUygulamaListesi.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.csproj.GenerateResource.Cache
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.exe.licenses
+C:\Users\EmirhanTalha\Desktop\Calismalarim\EmirhanTalhaStudies\proje_DisDoktor\proje_DisDoktor\bin\Debug\proje_DisDoktor.exe.config
+C:\Users\EmirhanTalha\Desktop\Calismalarim\EmirhanTalhaStudies\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.exe
+C:\Users\EmirhanTalha\Desktop\Calismalarim\EmirhanTalhaStudies\proje_DisDoktor\proje_DisDoktor\obj\Debug\proje_DisDoktor.pdb
